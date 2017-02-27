@@ -1,0 +1,25 @@
+{
+  "name": "electron-disable-file-drop",
+  "version": "1.0.0",
+  "description": "Prevent dropped files from opening in electron apps ",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ecrmnn/electron-disable-file-drop"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Daniel Eckermann",
+    "email": "danieleckermann@gmail.com",
+    "url": "http://danieleckermann.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecrmnn/electron-disable-file-drop/issues"
+  },
+  "homepage": "https://github.com/ecrmnn/electron-disable-file-drop",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
