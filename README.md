@@ -16,8 +16,5 @@ require('electron-disable-file-drop');
 //=> That's all folks
 ```
 
-### Related
-- [electron-disable-file-drop](https://github.com/ecrmnn/electron-disable-file-drop) - This module
-
 ### License
 MIT © [Daniel Eckermann](http://danieleckermann.com)
