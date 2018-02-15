@@ -1,8 +1,11 @@
 {
   "name": "electron-disable-file-drop",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Prevent dropped files from opening in electron apps ",
   "main": "src/index.js",
+  "scripts": {
+    "eslint": "node_modules/.bin/eslint src/"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/ecrmnn/electron-disable-file-drop"
@@ -20,6 +23,9 @@
   "homepage": "https://github.com/ecrmnn/electron-disable-file-drop",
   "devDependencies": {
     "chai": "^3.5.0",
+    "eslint": "^4.17.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0",
     "mocha": "^2.4.5"
   }
 }
